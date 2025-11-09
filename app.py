@@ -193,8 +193,8 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 7860))
     
     demo.launch(
-        share=False,  # Set to True for temporary public URL
-        server_name="0.0.0.0",  # Allow external access
+        share=True,  # Set to True for temporary public URL
+        server_name="localhost",  # Allow external access
         server_port=port,
         show_api=True  # Enable API documentation
     )
