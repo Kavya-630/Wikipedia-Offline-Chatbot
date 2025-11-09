@@ -68,4 +68,4 @@ App looks like this
 3. Wait until indexing completes (you’ll see ✅ success message)
 4. Start asking questions in the chat panel!
 
-<img width="1129" height="610" alt="image" src="https://github.com/user-attachments/assets/b2cff878-d5e6-48bf-90c5-adc67893d57b" />
+<img width="1129" height="600" alt="image" src="https://github.com/user-attachments/assets/b2cff878-d5e6-48bf-90c5-adc67893d57b" />
