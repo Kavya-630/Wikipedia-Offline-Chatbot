@@ -1,0 +1,29 @@
+gradio==4.19.2
+
+
+# === Core LangChain ecosystem ===
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.52
+langchainhub==0.1.15
+langsmith==0.1.77
+
+# === Embeddings and VectorStore ===
+sentence-transformers
+chromadb==0.5.0
+faiss-cpu
+numpy
+scikit-learn
+tqdm
+rich
+
+# === LLaMA and LLM backends ===
+llama-cpp-python==0.2.76
+openai==1.37.0
+
+# === Streamlit frontend ===
+
+# === Utilities ===
+python-dotenv
+wikipedia
+
